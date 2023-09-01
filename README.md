@@ -1,4 +1,4 @@
-# flutter_lab
+# FlutterProjects
 
 A new Flutter project.
 
